@@ -1,0 +1,9 @@
+Package: powerr
+Type: Package
+Title: Power and Sample Size
+Version: 0.1.0
+Authors@R: person("Aravind", "Hebbali", email = "hebbali.aravind@gmail.com", role = c("aut", "cre"))
+Description: Tools for power and sample size calculations. Includes a 'shiny' app.
+License: MIT
+Encoding: UTF-8
+LazyData: true
